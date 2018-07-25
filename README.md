@@ -14,4 +14,7 @@ Things to add :
 
 
 
-![alt text](Screenshot_2018-07-21-17-52-59-1.png "A demo of the app.")
+![alt text](Screenshot_2018-07-26-00-53-12-2.png "A demo of the app.")
+
+
+![alt text](Screenshot_2018-07-26-00-53-15-1.png "A demo of the app.")

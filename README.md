@@ -11,3 +11,7 @@ Things to add :
 3. Trigonometric calculations.
 4. Hyperbolic functions' calculations. 
 5. Degree and radian calculations. 
+
+
+
+![alt text](Screenshot_2018-07-21-17-52-59-1.png "A demo of the app.")
